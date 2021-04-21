@@ -7,7 +7,7 @@ summary: 'Test 2'
 categories: TEST
 thumbnail: jekyll
 tags:
-  - thumbnails
+  - Test1
   - carte noire
 ---
 
