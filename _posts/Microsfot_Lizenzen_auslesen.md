@@ -8,7 +8,6 @@ thumbnail: jekyll
 tags:
   - thumbnails
   - carte noire
-date: '21.04.2021 14:30'
 ---
 
 
