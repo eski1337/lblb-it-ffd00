@@ -40,11 +40,5 @@ The following tools and libraries are used in this theme
  * [Bootstrap](http://getbootstrap.com/)
  * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
-### Social
- * [AddThis](http://www.addthis.com/)
- * [Disqus](https://disqus.com/)
-
-
-
 ## License
 The jekyll theme, HTML, CSS and JavaScript is licensed under GPLv3 (unless stated otherwise in the file).
