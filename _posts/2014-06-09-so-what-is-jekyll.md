@@ -7,7 +7,6 @@ categories: jekyll
 thumbnail: jekyll
 tags:
   - about
-  - jekyll
   - lorem-ipsum
 ---
 
