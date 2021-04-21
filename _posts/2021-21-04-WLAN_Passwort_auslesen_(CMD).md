@@ -6,7 +6,7 @@ summary: Wie man das WLAN Passwort per CMD ausliest
 categories: jekyll
 thumbnail: jekyll
 tags:
-  - about
+  - wlan
   - lorem-ipsum
 ---
 
