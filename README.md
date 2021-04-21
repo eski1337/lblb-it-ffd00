@@ -44,9 +44,7 @@ The following tools and libraries are used in this theme
  * [AddThis](http://www.addthis.com/)
  * [Disqus](https://disqus.com/)
 
-### Other
- * [Real Favicon Generator](http://realfavicongenerator.net/)
- * [Google Analytics](http://www.google.com/analytics/)
+
 
 ## License
 The jekyll theme, HTML, CSS and JavaScript is licensed under GPLv3 (unless stated otherwise in the file).
