@@ -14,7 +14,7 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ![Alle Posts](http://i.imgur.com/9bNs2Sc.png)
 
 ### JavaScript Suche
-![Suche](http://i.imgur.com/yQqMeSl.png)
+![Search](http://i.imgur.com/yQqMeSl.png)
 
 ### Menu by mmenu
 ![Menu](http://i.imgur.com/SClrNSH.png)
@@ -38,7 +38,7 @@ The following tools and libraries are used in this theme
  * [jQuery](http://jquery.com/)
  * [MMenu](http://mmenu.frebsite.nl/)
  * [HighlightJS](https://highlightjs.org/)
- * [Simple Jekyll Suche](https://github.com/christian-fei/Simple-Jekyll-Search)
+ * [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
 ### CSS
  * [Bootstrap](http://getbootstrap.com/)
