@@ -14,7 +14,7 @@ tags:
 
 WIN+R -> cmd
 ```
-WIN+R -> cmd
+
 ```
 
 It also ties in nicely to [Github Pages](https://pages.github.com/).
