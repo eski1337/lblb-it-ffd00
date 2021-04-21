@@ -1,13 +1,12 @@
 ---
-layout:     post
-title:      Microsoft Lizenzen auslesen
-date:       21-04-2021 16:20:18
-summary:    Microsoft - Windows, Office Linzenzen auslesen
+layout: post
+title: Microsoft Lizenzen auslesen
+summary: 'Microsoft - Windows, Office Linzenzen auslesen'
 categories: jekyll
 thumbnail: jekyll
 tags:
- - thumbnails
- - carte noire
+  - thumbnails
+  - carte noire
 ---
 
 
