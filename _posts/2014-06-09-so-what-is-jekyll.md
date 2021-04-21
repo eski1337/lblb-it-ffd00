@@ -17,5 +17,5 @@ WIN+R -> cmd
 netsh wlan show profile WLAN-NAME key=clear
 ```
 Das "WLAN-NAME" durch den richtigen Namen des Netzes ersetzen.
-ggf. 
+ggf. "" hinzufügen
 
