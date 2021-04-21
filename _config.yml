@@ -4,15 +4,15 @@ description: LBLB - IT solutions
 baseurl: ''
 url: ''
 title_description: >-
-  Willkommen auf unserem neuen Portal mit .
+  Willkommen auf unserem neuen Portal mit der Ansammlung unseres Wissens.
 title_image: 'https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm'
 google_analytics: UA-20365477-4
 disqus_account: cartenoire
 github_repository: 'https://github.com/jacobtomlinson/carte-noire'
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
-twitter_username: _jacobtomlinson
-github_username: jacobtomlinson
+twitter_username: lukasdmo
+github_username: null
 instagram_username: null
 reddit_username: null
 linkedin_link: 'http://carte-noire.jacobtomlinson.co.uk/'
