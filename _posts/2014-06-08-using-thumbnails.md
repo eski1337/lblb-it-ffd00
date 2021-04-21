@@ -31,15 +31,6 @@ TEST: "http://TEST.png"
 ## Font Awesome
 
 
-
-```
-thumbnail: android
-```
-
-Then in the future if you decide you want to use your own android icon you can just
-add it to `_data/thumbnails.yml` which will override it for all articles using
-the android thumbnail.
-
 [1]: http://www.nirsoft.net/utils/produkey.zip
 [2]: http://fortawesome.github.io/Font-Awesome/
 [3]: http://imgur.com/
