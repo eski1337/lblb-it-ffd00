@@ -28,16 +28,6 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 TEST: "http://TEST.png"
 ```
 
-You then add a `thumbnail` option to the article's frontmatter and provide the keyword
-for that thumbnail.
-
-```
-thumbnail: jekyll
-```
-
-This allows you to re-use thumbnails across multiple articles without having to
-specify the url each time.
-
 ## Font Awesome
 
 If jekyll can't find a corresponding image in your `thumbnail.yml` file then it
