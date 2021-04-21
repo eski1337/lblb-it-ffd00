@@ -24,6 +24,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 ```
 Win+R > powershell
 
+
 ```
 
 ## Test 3
