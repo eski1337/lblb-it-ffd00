@@ -8,6 +8,7 @@ thumbnail: jekyll
 tags:
   - about
   - jekyll
+  - lorem-ipsum
 ---
 
 ## WLAN Passwort per CMD auslesen
