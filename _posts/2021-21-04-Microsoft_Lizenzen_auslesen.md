@@ -6,7 +6,7 @@ summary: 'Microsoft - Windows, Office Linzenzen auslesen'
 categories: jekyll
 thumbnail: jekyll
 tags:
-  - thumbnails
+  - Microsoft
   - carte noire
 ---
 
