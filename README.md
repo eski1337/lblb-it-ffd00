@@ -19,10 +19,6 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ### Menu by mmenu
 ![Menu](http://i.imgur.com/SClrNSH.png)
 
-## Contact
-If you wish to contact me regarding this theme please raise an issue on GitHub,
-tweet me [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email me
-[jacob@jacobtomlinson.co.uk](mailto:jacob@jacobtomlinson.co.uk).
 
 ## Contribution
 Pull requests are very welcome.
