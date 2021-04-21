@@ -24,9 +24,6 @@ footer_left: >-
   Made by<a
   href="https://twitter.com/lukasdmo"> LBLB</a>
 footer_right: >-
-  &lt;/&gt; on <a
-  href="https://github.com/jacobtomlinson/carte-noire">Github</a> &nbsp;<i
-  class="fa fa-github-alt"></i>
 markdown: kramdown
 kramdown:
   input: GFM
