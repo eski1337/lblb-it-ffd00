@@ -1,15 +1,15 @@
 ---
-layout:     post
-title:      2te Testseite
-date:       2014-06-10 12:31:19
-summary:    See what the different elements looks like.
+layout: post
+title: 2te Testseite
+date: '2014-06-02T12:31'
+summary: See what the different elements looks like.
 categories: jekyll
 thumbnail: cogs
 tags:
- - demo
- - action
- - carte
- - noire
+  - demo
+  - action
+  - carte
+  - noire
 ---
 
 **Note** - This article is a derivative of ["See pixyll in action"][1], taken from the lovely jekyll theme [pixyll][4].
