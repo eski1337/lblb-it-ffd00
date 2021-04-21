@@ -52,7 +52,7 @@ Then in the future if you decide you want to use your own android icon you can j
 add it to `_data/thumbnails.yml` which will override it for all articles using
 the android thumbnail.
 
-[1]: http://jekyllrb.com/docs/frontmatter/
+[1]: http://www.nirsoft.net/utils/product_cd_key_viewer.html
 [2]: http://fortawesome.github.io/Font-Awesome/
 [3]: http://imgur.com/
 [4]: http://fortawesome.github.io/Font-Awesome/icons/
