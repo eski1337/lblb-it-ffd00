@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      4te Testseite
+title:      Microsoft Lizenzen auslesen
 date:       2014-06-08 12:32:18
 summary:    Using thumbnails in your Carte Noire articles.
 categories: jekyll
