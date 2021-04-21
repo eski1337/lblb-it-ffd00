@@ -2,7 +2,7 @@
 layout:     post
 title:      WLAN Passwort auslesen (CMD)
 date:       21-04-2021 16:32:18
-summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
+summary:    Wie man das WLAN Passwort per CMD ausliest
 categories: jekyll
 thumbnail: jekyll
 tags:
