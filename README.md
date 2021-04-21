@@ -14,7 +14,7 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ![Alle Posts](http://i.imgur.com/9bNs2Sc.png)
 
 ### JavaScript Suche
-![Search](http://i.imgur.com/yQqMeSl.png)
+![Suche](http://i.imgur.com/yQqMeSl.png)
 
 ### Menu by mmenu
 ![Menu](http://i.imgur.com/SClrNSH.png)
