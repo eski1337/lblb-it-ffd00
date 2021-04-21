@@ -1,3 +1,4 @@
+---
 layout: post
 title: Microsoft Lizenzen auslesen
 date: '2021-04-21T12:31'
