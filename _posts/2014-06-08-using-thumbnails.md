@@ -17,7 +17,7 @@ images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
 
 ## Images
 
-To use your own custom images as a thumbnail you must upload them to a web available
+DIGIMOMTo use your own custom images as a thumbnail you must upload them to a web available
 location (I use [Imgur][3]) and then you need to add the url to `_data/thumbnail.yml`
 with an associated keyword.
 Digimon
