@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Microsoft Lizenzen auslesen
+date: '2021-04-21T12:31'
 summary: 'Microsoft - Windows, Office Linzenzen auslesen'
 categories: jekyll
 thumbnail: jekyll
