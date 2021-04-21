@@ -11,8 +11,8 @@ tags:
 ---
 
 Lizenzen / Keys mit `ProduKey` auslesen.
-Download:[ProduKey][1]. This thumbnail parameter is processed in one of two ways,
-images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
+Download:[ProduKey][1].
+
 
 ## Images
 
