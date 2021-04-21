@@ -18,14 +18,6 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 <br>Download:[ProduKey][1].
 
 
-
-
-
-
-
-
-
-
 ## Powershell
 
 
