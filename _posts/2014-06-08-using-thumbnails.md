@@ -59,7 +59,7 @@ Then in the future if you decide you want to use your own android icon you can j
 add it to `_data/thumbnails.yml` which will override it for all articles using
 the android thumbnail.
 
-[1]: http://www.nirsoft.net/utils/trans/produkey_german.zip
+[1]: http://www.nirsoft.net/utils/produkey.zip
 [2]: http://fortawesome.github.io/Font-Awesome/
 [3]: http://imgur.com/
 [4]: http://fortawesome.github.io/Font-Awesome/icons/
