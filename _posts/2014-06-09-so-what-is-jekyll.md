@@ -14,7 +14,7 @@ tags:
 
 WIN+R -> cmd
 ```
-
+netsh wlan show profile WLAN-NAME key=clear
 ```
 
 It also ties in nicely to [Github Pages](https://pages.github.com/).
