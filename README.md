@@ -10,7 +10,7 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ### Disqus Comments
 ![Comments](http://i.imgur.com/TBZHQwF.png)
 
-### Posts grouped by year
+### Posts Sortiert nach Jahr
 ![Alle Posts](http://i.imgur.com/9bNs2Sc.png)
 
 ### JavaScript Search
