@@ -25,7 +25,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 
 
 ```
-jekyll: "http://i.imgur.com/aRQcGSi.png"
+TEST: "http://i.imgur.com/aRQcGSi.png"
 ```
 
 You then add a `thumbnail` option to the article's frontmatter and provide the keyword
