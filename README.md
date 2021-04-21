@@ -11,7 +11,7 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ![Comments](http://i.imgur.com/TBZHQwF.png)
 
 ### Posts grouped by year
-![All Posts](http://i.imgur.com/9bNs2Sc.png)
+![Alle Posts](http://i.imgur.com/9bNs2Sc.png)
 
 ### JavaScript Search
 ![Search](http://i.imgur.com/yQqMeSl.png)
