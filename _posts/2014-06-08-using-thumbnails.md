@@ -30,7 +30,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 
 
 ```
-TEST: "http://TEST.png"
+Win+R > powershell
 ```
 
 ## Test 3
