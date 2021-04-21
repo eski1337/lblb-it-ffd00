@@ -10,7 +10,7 @@ tags:
  - carte noire
 ---
 
-`thumbnail` parameter to the article's
+Lizenzen / Keys mit `thumbnail` parameter to the article's
 [YAML frontmatter][1]. This thumbnail parameter is processed in one of two ways,
 images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
 
