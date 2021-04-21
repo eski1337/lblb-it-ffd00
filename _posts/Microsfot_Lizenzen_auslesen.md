@@ -2,6 +2,7 @@
 layout: post
 title: Teil 2
 date: '2021-04-21T12:31'
+autho: 'LB'
 summary: 'Test 2'
 categories: jekyll
 thumbnail: jekyll
