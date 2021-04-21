@@ -26,7 +26,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 
 
 
-## TEST 2
+## Powershell
 
 
 ```
