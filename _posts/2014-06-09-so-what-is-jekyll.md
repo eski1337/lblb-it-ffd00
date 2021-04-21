@@ -11,9 +11,7 @@ tags:
 ---
 
 ## WLAN Passwort per CMD auslesen
-[Liquid](http://docs.shopify.com/themes/liquid-basics) templating
-language and has builtin [Markdown](http://daringfireball.net/projects/markdown/)
-and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
+WIN+R -> cmd
 
 It also ties in nicely to [Github Pages](https://pages.github.com/).
 
