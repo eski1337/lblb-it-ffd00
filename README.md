@@ -38,7 +38,7 @@ The following tools and libraries are used in this theme
  * [jQuery](http://jquery.com/)
  * [MMenu](http://mmenu.frebsite.nl/)
  * [HighlightJS](https://highlightjs.org/)
- * [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+ * [Simple Jekyll Suche](https://github.com/christian-fei/Simple-Jekyll-Search)
 
 ### CSS
  * [Bootstrap](http://getbootstrap.com/)
