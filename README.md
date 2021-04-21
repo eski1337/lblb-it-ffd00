@@ -13,7 +13,7 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ### Posts Sortiert nach Jahr
 ![Alle Posts](http://i.imgur.com/9bNs2Sc.png)
 
-### JavaScript Suche
+### JavaScript Search
 ![Search](http://i.imgur.com/yQqMeSl.png)
 
 ### Menu by mmenu
