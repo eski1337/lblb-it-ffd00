@@ -23,7 +23,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 
 ```
 Win+R > powershell
-
+(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey
 
 ```
 
