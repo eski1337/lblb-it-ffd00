@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      WLAN Passwort auslesen (CMD)
-date:       21-04- 12:32:18
+date:       21-04-2021 12:32:18
 summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
 categories: jekyll
 thumbnail: jekyll
