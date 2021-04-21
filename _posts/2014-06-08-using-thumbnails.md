@@ -25,7 +25,7 @@ Lizenzen / Keys mit `ProduKey` auslesen.
 
 
 ```
-TEST: "http://i.imgur.com/aRQcGSi.png"
+TEST: "http://TEST.png"
 ```
 
 You then add a `thumbnail` option to the article's frontmatter and provide the keyword
