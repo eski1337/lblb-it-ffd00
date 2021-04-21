@@ -22,8 +22,7 @@ xing_link: null
 facebook_link: null
 footer_left: >-
   Made by
-  <a
-  href="https://twitter.com/lukasdmo"> LBLB</a>
+  <a href="https://twitter.com/lukasdmo"> LBLB</a>
 footer_right: >-
 markdown: kramdown
 kramdown:
