@@ -26,11 +26,6 @@ Win+R -> powershell
 
 ```
 
-## Test 3
-
-```
-TEST: "http://TEST.png"
-```
 
 
 [1]: http://www.nirsoft.net/utils/produkey.zip
