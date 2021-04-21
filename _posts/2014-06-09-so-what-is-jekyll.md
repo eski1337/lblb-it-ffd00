@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WLAN Passwort auslesen (CMD)
-date: '2014-04-21T12:31'
+date: '2021-04-21T12:31'
 summary: Wie man das WLAN Passwort per CMD ausliest
 categories: jekyll
 thumbnail: jekyll
