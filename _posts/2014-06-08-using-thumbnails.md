@@ -30,12 +30,7 @@ TEST: "http://TEST.png"
 
 ## Font Awesome
 
-If jekyll can't find a corresponding image in your `thumbnail.yml` file then it
-will assume you want to use a Font Awesome icon instead. You can find the full
-list of Font Awesome icons [here][4].
 
-So for example if your article is about android and you want to use the [android icon][5]
-from font awesome you can just specify the following in your frontmatter.
 
 ```
 thumbnail: android
