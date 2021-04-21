@@ -7,7 +7,7 @@ categories: jekyll
 thumbnail: jekyll
 tags:
   - Microsoft
-  - carte noire
+  - Lizenz auslesen
 ---
 
 
