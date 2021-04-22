@@ -21,7 +21,7 @@ tags:
 So kann es geschehen, dass bei einem der neuen Server die Roamingprofile nicht mehr korrekt synchronsiert werden können sobald Windows Search aktiviert ist.  
   
 Um dies zu beheben muss folgender Ordner aus den Roamingprofilen ausgeschlossen werden:  </h4>
-<b>AppData\Roaming\Microsoft\Search\Data\Applications</b>
+AppData\Roaming\Microsoft\Search\Data\Applications<
 
 
 Dazu am besten folgende Gruppenrichtlinie erstellen:
