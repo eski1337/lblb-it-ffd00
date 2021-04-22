@@ -24,7 +24,7 @@ Um dies zu beheben muss folgender Ordner aus den Roamingprofilen ausgeschlossen 
 <b>AppData\Roaming\Microsoft\Search\Data\Applications</b>
 
 
-Dazu am besten folgende Gruppenrichtlinie erstellen:
+<h4>Dazu am besten folgende Gruppenrichtlinie erstellen:</h4>
   - WIN + R -> gpedit.msc
 
 ```
