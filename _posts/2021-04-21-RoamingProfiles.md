@@ -34,7 +34,7 @@ Um dies zu beheben muss folgender Ordner aus den Roamingprofilen ausgeschlossen 
 - Benutzerprofile
 - Verzeichnisse aus servergespeichertem Profil ausschließen
 - Status - aktiviert
-- Folgende Verzeichnisse vom servergespeicherten Profil ausschließen - <br>AppData\Roaming\Microsoft\Search\Data\Applications </br> 
+- Folgende Verzeichnisse vom servergespeicherten Profil ausschließen - <br>AppData\Roaming\Microsoft\Search\Data\Applications</br> 
 ```
 
 Alternativ kann die Option auch in der Registry eingestellt werden:
