@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nur ein kleiner Test!
-date: '2022-04-21T12:31'
+date: '2021-04-21T12:31'
 summary: Wie man das WLAN Passwort per CMD ausliest
 categories: Passwort
 tags:
