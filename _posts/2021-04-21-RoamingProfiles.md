@@ -17,7 +17,7 @@ tags:
 
 ## Roamingprofil wurde nicht vollständig synchronisiert
 
-<h5>Mit Windows Server 2016 und 2019 hat MS die Art geändert, mit der die Windows Suche arbeitet.
+<h3>Mit Windows Server 2016 und 2019 hat MS die Art geändert, mit der die Windows Suche arbeitet.
 So kann es geschehen, dass bei einem der neuen Server die Roamingprofile nicht mehr korrekt synchronsiert werden können sobald Windows Search aktiviert ist.  
   
 Um dies zu beheben muss folgender Ordner aus den Roamingprofilen ausgeschlossen werden:  </h5>
