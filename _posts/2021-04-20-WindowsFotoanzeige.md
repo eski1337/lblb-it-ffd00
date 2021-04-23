@@ -15,7 +15,7 @@ tags:
 ---
 ## Windows Fotoanzeige auf Windwows Server 2016++
 
-<h4>Per Default werden Bilder in Paint geöffnet – die Windows Fotoanzeige ist aber weiterhin enthalten und kann manuell wieder aktiviert werden.\
+<h5>Per Default werden Bilder in Paint geöffnet – die Windows Fotoanzeige ist aber weiterhin enthalten und kann manuell wieder aktiviert werden.\
 Folgende Schritte müssen unternommen werden um die Fotoanzeige wieder verfügbar zu machen.</h4>
 
 1.  Zuerst müssen die passenden DLLs regisitriert werden.
