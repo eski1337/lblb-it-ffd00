@@ -21,9 +21,11 @@ Folgende Schritte müssen unternommen werden um die Fotoanzeige wieder verfügba
 1.  Zuerst müssen die passenden DLLs regisitriert werden.
     *   CMD als Administrator ausführen und die folgenden Befehle eingeben
 
-*   regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”
+\<!---->
 
-*   regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
+regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”
+
+regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
 
 2.  In der Registry einen Eintrag als Zeichenfolge für den jeweiligen Dateityp anlegen unter:
     *   WIN + R -> regedit
