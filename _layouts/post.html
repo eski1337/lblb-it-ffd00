@@ -42,7 +42,7 @@ layout: default
           </span>
           {% endif %}
           am <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%-dten %B, %Y" }}</span>
-          {% if page.categories != empty %} unter {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
+          {% if page.categories != empty %} unter der Kategorie:{% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
         </i></small>
       </div>
 
