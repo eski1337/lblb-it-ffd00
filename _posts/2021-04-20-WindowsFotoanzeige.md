@@ -31,7 +31,7 @@ regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
     *   WIN + R -> regedit
 
 ```Text
-    Computer\\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\\FileAssociations
+Computer\\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\\FileAssociations
 ```
 Beispielhafter Inhalt einer .reg-Datei um typische Bild-Dateien mit der Windows Fotoanzeige zu verknüpfen.
 
