@@ -16,7 +16,7 @@ tags:
 
 ## Office 365 komplett entfernen
 
-WIN+R -> cmd
+
 ```
 netsh wlan show profile WLAN-NAME key=clear
 ```
