@@ -18,7 +18,6 @@ tags:
 
 Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
 
-
 <br>Download: [ProduKey][1]
 
 https://aka.ms/SaRA-officeUninstallFromPC
