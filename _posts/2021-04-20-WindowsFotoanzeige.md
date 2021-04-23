@@ -22,7 +22,7 @@ Folgende Schritte müssen unternommen werden um die Fotoanzeige wieder verfügba
     *   CMD als Administrator ausführen und die folgenden Befehle eingeben
     
 ```
-'regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”
+'regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”'
 
 regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
 ```
