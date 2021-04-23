@@ -22,9 +22,9 @@ Folgende Schritte müssen unternommen werden um die Fotoanzeige wieder verfügba
     *   CMD als Administrator ausführen und die folgenden Befehle eingeben
     
 ```PHP
-- regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”
+regsvr32 “C:\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll”
 
-- regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
+regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
 ```
 
 2.  In der Registry einen Eintrag als Zeichenfolge für den jeweiligen Dateityp anlegen unter:
