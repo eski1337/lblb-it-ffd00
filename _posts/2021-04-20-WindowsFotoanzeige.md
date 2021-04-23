@@ -30,8 +30,6 @@ regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
 2.  In der Registry einen Eintrag als Zeichenfolge für den jeweiligen Dateityp anlegen unter:
     *   WIN + R -> regedit
 
-<!---->
-
 
     Computer\\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\\FileAssociations
 
