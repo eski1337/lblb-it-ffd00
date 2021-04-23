@@ -4,7 +4,7 @@ title: Office 365 entfernen (Tool)
 date: '2021-04-23T12:31'
 author: eski
 summary: Wie man Office 365 komplett entfernt
-categories: Office Office 365
+categories: Office Office365
 thumbnail:  cogs
 tags:
   - wlan
