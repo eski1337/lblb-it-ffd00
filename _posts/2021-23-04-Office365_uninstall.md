@@ -16,7 +16,7 @@ tags:
 
 ## Office 365 komplett entfernen
 
-Einfach das Tool `Microsoft Support and Recovery-Assistant`
+Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
 ```
 netsh wlan show profile WLAN-NAME key=clear
 ```
