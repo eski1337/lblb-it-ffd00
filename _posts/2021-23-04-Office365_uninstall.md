@@ -18,7 +18,7 @@ tags:
 
 Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
 
-<br>Download: [Tool][1]
+<br>Download: [MSRA][1]
 
 
 Das "WLAN-NAME" durch den richtigen Namen des Netzes ersetzen.<br>
