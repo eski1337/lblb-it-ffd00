@@ -38,7 +38,7 @@ Um dies zu beheben muss folgender Ordner aus den Roamingprofilen ausgeschlossen 
 ```
 
 Alternativ kann die Option auch in der Registry eingestellt werden:
-  - WIN + R -> regedit
+  - <b>WIN + R -> regedit
 1. Dazu den folgenden Pfad in der Registry aufrufen:
 ```
 Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
