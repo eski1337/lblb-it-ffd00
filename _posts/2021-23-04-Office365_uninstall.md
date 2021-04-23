@@ -14,7 +14,7 @@ tags:
   - deinstallieren
 ---
 
-## Office 365 
+## Office 365 komplett entfernen
 
 WIN+R -> cmd
 ```
