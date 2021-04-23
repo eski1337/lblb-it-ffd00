@@ -4,6 +4,7 @@ title: WLAN Passwort auslesen (CMD)
 date: '2021-04-21T12:31'
 summary: Wie man das WLAN Passwort per CMD ausliest
 categories: Passwort
+thumbnail:  cogs
 tags:
   - wlan
   - passwort
