@@ -24,4 +24,4 @@ Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
 Das "WLAN-NAME" durch den richtigen Namen des Netzes ersetzen.<br>
 Ggf. " " hinzufügen wenn der Name ein Leerzeichen enthält.
 
-[1]: http://www.nirsoft.net/utils/produkey.zip
+[1]: https://aka.ms/SaRA-officeUninstallFromPC
