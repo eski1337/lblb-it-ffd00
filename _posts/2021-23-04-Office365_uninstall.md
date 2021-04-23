@@ -16,7 +16,7 @@ tags:
 
 ## Office 365 komplett entfernen
 
-Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
+Einfach das Tool `Microsoft Support and Recovery-Assistant`  herunteraden und den Anweisungen folgen.
 
 <br>Download: [MSRA][1]
 
