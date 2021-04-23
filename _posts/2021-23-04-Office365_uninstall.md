@@ -16,7 +16,7 @@ tags:
 
 ## Office 365 komplett entfernen
 
-Einfach das Tool `ProduKey`
+Einfach das Tool ``
 ```
 netsh wlan show profile WLAN-NAME key=clear
 ```
