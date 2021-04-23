@@ -14,7 +14,7 @@ tags:
   - deinstallieren
 ---
 
-## WLAN Passwort per CMD auslesen
+## Office 365 
 
 WIN+R -> cmd
 ```
