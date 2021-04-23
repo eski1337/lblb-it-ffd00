@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WLAN Passwort auslesen (CMD)
+title: Office 365 entfernen (Tool)
 date: '2021-04-23T12:31'
 author:     eski
 summary: Wie man das WLAN Passwort per CMD ausliest
