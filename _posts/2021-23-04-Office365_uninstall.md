@@ -5,6 +5,7 @@ date: '2021-04-23T12:31'
 author: eski
 summary: Wie man Office 365 komplett entfernt
 categories: Office; Office365
+categories:
 thumbnail:  cogs
 tags:
   - Office
