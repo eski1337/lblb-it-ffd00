@@ -4,6 +4,7 @@ title: Microsoft Lizenzen auslesen
 date: '2021-04-21T12:31'
 summary: 'Microsoft - Windows, Office Linzenzen auslesen'
 categories: Lizenzen Windows
+thumbnail:  cogs
 tags:
   - Microsoft
   - Lizenz auslesen
