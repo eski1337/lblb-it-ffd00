@@ -32,7 +32,7 @@ regsvr32 “C:\Program Files\Windows Photo Viewer\PhotoViewer.dll”
 
 ```Windows
     Computer\\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\\FileAssociations
-
+```
 Beispielhafter Inhalt einer .reg-Datei um typische Bild-Dateien mit der Windows Fotoanzeige zu verknüpfen.
 
     Windows Registry Editor Version 5.00
