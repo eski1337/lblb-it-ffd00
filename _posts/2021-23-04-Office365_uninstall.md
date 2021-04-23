@@ -17,9 +17,8 @@ tags:
 ## Office 365 komplett entfernen
 
 Einfach das Tool `Microsoft Support and Recovery-Assistant` herunterladen
-```
 
-```
+
 Das "WLAN-NAME" durch den richtigen Namen des Netzes ersetzen.<br>
 Ggf. " " hinzufügen wenn der Name ein Leerzeichen enthält.
 
