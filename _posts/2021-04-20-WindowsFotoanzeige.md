@@ -18,7 +18,7 @@ tags:
 <h4>Per Default werden Bilder in Paint geöffnet – die Windows Fotoanzeige ist aber weiterhin enthalten und kann manuell wieder aktiviert werden.\
 Folgende Schritte müssen unternommen werden um die Fotoanzeige wieder verfügbar zu machen.</h4>
 
-1.  Zuerst müssen die passenden DLLs regisitriert werden.
+1.  <h4Zuerst müssen die passenden DLLs regisitriert werden.
     *   CMD als Administrator ausführen und die folgenden Befehle eingeben
     
 ```txt
