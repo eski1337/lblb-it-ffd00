@@ -16,7 +16,7 @@ tags:
 ## WLAN Passwort per CMD auslesen
 <br>
 
-__WIN__ +R -> cmd
+__WIN__ + __R__ -> cmd
 ```
 netsh wlan show profile WLAN-NAME key=clear
 ```
