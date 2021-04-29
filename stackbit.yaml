@@ -1,0 +1,81 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+publishDir: _site
+dataDir: _data
+pagesDir: ''
+models:
+  post:
+    type: page
+    label: Post
+    folder: _posts
+    match: '*'
+    exclude:
+      - 2021-23-04-Office365_uninstall.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: string
+        name: author
+        label: Author
+      - type: string
+        name: summary
+        label: Summary
+      - type: string
+        name: categories
+        label: Categories
+      - type: string
+        name: thumbnail
+        label: Thumbnail
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+  post_1:
+    type: page
+    label: Post 1
+    folder: _posts
+    match:
+      - 2021-23-04-Office365_uninstall.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: string
+        name: author
+        label: Author
+      - type: string
+        name: summary
+        label: Summary
+      - type: list
+        name: categories
+        label: Categories
+        items:
+          type: string
+      - type: string
+        name: thumbnail
+        label: Thumbnail
+  thumbnail:
+    type: data
+    label: Thumbnail
+    file: thumbnail.yml
+    fields:
+      - type: image
+        name: gravatar
+        label: Gravatar
+      - type: image
+        name: jekyll
+        label: Jekyll
