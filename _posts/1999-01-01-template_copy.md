@@ -79,6 +79,7 @@ dir osk*
 11. Erleichterte Bedienung > Bildschirmtastatur - Es wird allerdings cmd.exe gestartet weil wir diese ja zuvor ausgetauscht haben
 
 12. net user *USERNAME* *NEUES PW*
+
 ```
 net user eski 1234
 ```
