@@ -61,7 +61,7 @@ dir osk.exe
 rename osk.exe osk.orig.exe
 ```
 
-9. osk = on screen keyboard (Bildschirmtastatur)
+9. cmd.exe kopieren
 
 ```
 dir osk.exe
