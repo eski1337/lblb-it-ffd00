@@ -55,7 +55,7 @@ cd Windows\System32
 dir osk.exe
 ```
 
-8. osk = on screen keyboard (Bildschirmtastatur)
+8. Original umbennen
 
 ```
 dir osk.exe
