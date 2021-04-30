@@ -32,7 +32,7 @@ Vorgehensweise:
     ![Thumper](https://i.imgur.com/cgOS11f.jpg)
     
 3. Problembehandlung
-    ![Thumper](https://i.imgur.com/cgOS11f.jpg)
+    ![Thumper](https://i.imgur.com/XZsOGe0.jpg)
 
 4. Eingabeaufforderung
     ![Thumper](https://i.imgur.com/cgOS11f.jpg)
