@@ -64,7 +64,7 @@ rename osk.exe osk.orig.exe
 9. cmd.exe kopieren
 
 ```
-copy
+copy cmd.exe
 
 ```
 
