@@ -76,7 +76,7 @@ dir osk*
 
 10. PC neustartem
 
-11. Erleichterte Bedienung > Bildschirmtastatur (es wird allerdings cmd.exe gestartet weil wir diese ja zuvor ausgetauscht haben
+11. Erleichterte Bedienung > Bildschirmtastatur - es wird allerdings cmd.exe gestartet weil wir diese ja zuvor ausgetauscht haben
 )
 
 
