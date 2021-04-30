@@ -42,7 +42,7 @@ Vorgehensweise:
 ```
 C:
 ```
-5. Auf C-Platte wechseln
+5. Dann in den Windows Ordner
 
 ```
 C:
