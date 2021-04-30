@@ -27,7 +27,7 @@ Was wir brauchen:
 
 Vorgehensweise:
 
-1. Mit Bootbarem Windows-USB-Stick 
+1. Von Windows-USB-Stick booten
 2. Bootable USB
 
 
