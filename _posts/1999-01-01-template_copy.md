@@ -68,6 +68,13 @@ copy cmd.exe osk.exe
 
 ```
 
+10. überprüfen
+9. osk = on screen keyboard (Bildschirmtastatur)
+
+```
+dir osk.exe
+```
+
 
 
 [no.link](http://no.struggle.zone)
