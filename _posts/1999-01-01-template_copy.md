@@ -52,7 +52,7 @@ cd Windows\System32
 7. Dann in den Windows Ordner
 
 ```
-cd Windows\System32
+dir
 ```
 
 
