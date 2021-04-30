@@ -42,7 +42,7 @@ Vorgehensweise:
 ```
 C:
 ```
-5. Dann in den Windows Ordner
+6. Dann in den Windows Ordner
 
 ```
 cd Windows\System32
