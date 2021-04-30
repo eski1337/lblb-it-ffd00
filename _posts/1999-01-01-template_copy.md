@@ -25,6 +25,12 @@ Was wir brauchen:
 2. Bootable USB
 
 
+Vorgehensweise:
+
+1. Original Image von Windows (.iso)
+2. Bootable USB
+
+
 
 ```
 lorem ipsum
