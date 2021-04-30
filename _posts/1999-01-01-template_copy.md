@@ -80,7 +80,7 @@ dir osk*
 
 12. net user *USERNAME* *NEUES PW*
 ```
-dir osk*
+net user eski 1234
 ```
 
 
