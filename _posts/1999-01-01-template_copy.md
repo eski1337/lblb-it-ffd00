@@ -71,7 +71,7 @@ copy cmd.exe osk.exe
 10. überprüfen
 
 ```
-dir osk.exe
+dir osk*
 ```
 
 
