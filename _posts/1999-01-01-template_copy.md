@@ -28,7 +28,8 @@ Was wir brauchen:
 Vorgehensweise:
 
 1. Von Windows-USB-Stick booten
-2. Bootable USB
+2. "Computerreparaturoptionen"
+3. 
 
 
 
