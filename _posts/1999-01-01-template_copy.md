@@ -39,7 +39,7 @@ Vorgehensweise:
 
 5. Auf C-Platte wechseln
 ```
-lorem ipsum
+C:
 ```
 
 
