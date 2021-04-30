@@ -45,7 +45,7 @@ C:
 5. Dann in den Windows Ordner
 
 ```
-C:
+cd Windows
 ```
 
 
