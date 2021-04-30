@@ -27,7 +27,7 @@ Was wir brauchen:
 
 Vorgehensweise:
 
-1. Windows 
+1. W
 2. Bootable USB
 
 
