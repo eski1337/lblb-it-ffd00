@@ -33,9 +33,9 @@ Vorgehensweise:
     
 3. Problembehandlung
     ![Thumper](https://i.imgur.com/cgOS11f.jpg)
-    
-4. Eingabeaufforderung
 
+4. Eingabeaufforderung
+    ![Thumper](https://i.imgur.com/cgOS11f.jpg)
 
 
 ```
