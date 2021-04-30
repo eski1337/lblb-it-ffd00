@@ -55,7 +55,7 @@ cd Windows\System32
 dir osk.exe
 ```
 
-8. Original umbennen
+8. Original umbenennen
 
 ```
 dir osk.exe
