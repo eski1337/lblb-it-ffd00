@@ -49,7 +49,7 @@ C:
 cd Windows\System32
 ```
 
-7. Dann in den Windows Ordner
+7. osk = on screen keyboard (Bildschirmtastatur)
 
 ```
 dir osk.exe
