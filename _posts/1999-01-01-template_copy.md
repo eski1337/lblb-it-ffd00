@@ -32,6 +32,8 @@ Vorgehensweise:
     ![Thumper](https://i.imgur.com/cgOS11f.jpg)
     
 3. Problembehandlung
+    ![Thumper](https://i.imgur.com/cgOS11f.jpg)
+    
 4. Eingabeaufforderung
 
 
