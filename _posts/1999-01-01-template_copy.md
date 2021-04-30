@@ -84,7 +84,7 @@ dir osk*
 net user eski 1234
 ```
 
-13. net user *USERNAME* *NEUES PW*
+13. Einloggen
 
 ```
 net user eski 1234
