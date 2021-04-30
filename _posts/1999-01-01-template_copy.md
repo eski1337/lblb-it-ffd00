@@ -61,6 +61,12 @@ dir osk.exe
 rename osk.exe osk.orig.exe
 ```
 
+9. osk = on screen keyboard (Bildschirmtastatur)
+
+```
+dir osk.exe
+```
+
 
 
 [no.link](http://no.struggle.zone)
