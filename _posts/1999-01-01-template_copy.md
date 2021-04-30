@@ -29,6 +29,7 @@ Vorgehensweise:
 
 1. Von Windows-USB-Stick booten
 2. 'Computerreparaturoptionen'
+    ![Thumper](https://i.imgur.com/DMCHDqF.jpg)
     https://i.imgur.com/cgOS11f.jpg
 3. 'Problembehandlung'
 4. 'Eingabeaufforderung'
