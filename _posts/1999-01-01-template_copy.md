@@ -27,7 +27,7 @@ Was wir brauchen:
 
 Vorgehensweise:
 
-1. Original Image von Windows (.iso)
+1. Windows 
 2. Bootable USB
 
 
