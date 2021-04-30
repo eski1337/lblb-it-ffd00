@@ -79,6 +79,12 @@ dir osk*
 11. Erleichterte Bedienung > Bildschirmtastatur - Es wird allerdings cmd.exe gestartet weil wir diese ja zuvor ausgetauscht haben
 
 
+
+
+
+
+
+
 [no.link](http://no.struggle.zone)
 
 <del>lorem ipsum</del>
