@@ -42,7 +42,11 @@ Vorgehensweise:
 ```
 C:
 ```
+5. Auf C-Platte wechseln
 
+```
+C:
+```
 
 
 
