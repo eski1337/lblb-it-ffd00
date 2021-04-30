@@ -29,7 +29,7 @@ Vorgehensweise:
 
 1. Von Windows-USB-Stick booten
 2. 'Computerreparaturoptionen'
-3. "Problembehandlung
+3. 'Problembehandlung
 4. "Eingabeaufforderung"
 
 
