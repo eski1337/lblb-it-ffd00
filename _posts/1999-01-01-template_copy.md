@@ -37,6 +37,8 @@ Vorgehensweise:
 4. Eingabeaufforderung
     ![Thumper](https://i.imgur.com/MdtXTKA.jpg)
 
+5. Auf C-Platte wechseln
+
 
 ```
 lorem ipsum
