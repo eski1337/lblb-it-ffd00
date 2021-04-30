@@ -58,7 +58,7 @@ dir osk.exe
 8. Original umbenennen
 
 ```
-dir osk.exe
+rename osk.exe osk.orig.exe
 ```
 
 
