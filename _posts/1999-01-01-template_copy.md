@@ -45,7 +45,7 @@ C:
 5. Dann in den Windows Ordner
 
 ```
-cd Windows
+cd Windows\System32
 ```
 
 
