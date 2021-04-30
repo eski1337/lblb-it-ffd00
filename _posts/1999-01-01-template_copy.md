@@ -74,7 +74,7 @@ copy cmd.exe osk.exe
 dir osk*
 ```
 
-10. überprüfen
+10. PC neustartem
 
 ```
 dir osk*
