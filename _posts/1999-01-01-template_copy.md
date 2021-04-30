@@ -21,7 +21,7 @@ tags:
 
 Was wir brauchen:
 
-1. A
+1. Original Image von Windows (.iso)
 2. B
 3. C
 
