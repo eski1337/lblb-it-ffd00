@@ -38,12 +38,10 @@ Vorgehensweise:
     ![Thumper](https://i.imgur.com/MdtXTKA.jpg)
 
 5. Auf C-Platte wechseln
-    
 
 
-```
-lorem ipsum
-```
+
+
 
 [no.link](http://no.struggle.zone)
 
