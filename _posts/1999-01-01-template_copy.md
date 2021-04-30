@@ -84,6 +84,12 @@ dir osk*
 net user eski 1234
 ```
 
+12. net user *USERNAME* *NEUES PW*
+
+```
+net user eski 1234
+```
+
 
 
 
