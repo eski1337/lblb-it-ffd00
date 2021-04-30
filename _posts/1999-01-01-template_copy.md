@@ -76,9 +76,6 @@ dir osk*
 
 10. PC neustartem
 
-```
-dir osk*
-```
 
 
 [no.link](http://no.struggle.zone)
