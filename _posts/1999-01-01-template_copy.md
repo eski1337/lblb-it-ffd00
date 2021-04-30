@@ -74,6 +74,11 @@ copy cmd.exe osk.exe
 dir osk*
 ```
 
+10. überprüfen
+
+```
+dir osk*
+```
 
 
 [no.link](http://no.struggle.zone)
