@@ -5,7 +5,7 @@ title:      template
 date:       2021-05-01
 author:     user
 
-summary:    Windows Login umgehen
+summary:    Windows Login umgehen (backdoor)
 categories: Login
 thumbnail:  cogs
 tags:
