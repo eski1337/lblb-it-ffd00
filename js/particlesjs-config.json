@@ -6,6 +6,7 @@
         "enable": true,
         "value_area": 800,
       }
+      
 
       #particles canvas{
     position: absolute;
