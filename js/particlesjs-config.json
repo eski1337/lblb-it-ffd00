@@ -5,7 +5,7 @@
       "density": {
         "enable": true,
         "value_area": 800
-        "position": absolute;
+        "position": absolute,
       }
 
       #particles canvas{
