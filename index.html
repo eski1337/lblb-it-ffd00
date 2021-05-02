@@ -5,51 +5,7 @@ make-smaller-titles: true
 
 <body>
 <div id="particles-js" class="background" >
-<script type="text/javascript" src="js/particles.js"> <div class="container-fluid index">
-    <div class="row">
-
-        <div class="col-md-12 main content-panel">
-
-            <div class="gravatar">
-                <br>
-                <img src="{{ site.title_image }}" class="img-square about-image" height="60" width="200" alt="{{ site.title }}" />
-                <br>
-                <br>
-                <br>
-            </div>
-            <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
-
-            <div class="author-text">
-                {{ site.title_description }}
-            </div>
-            {% include social_links.html %}
-          </div>
-          <div class="col-md-12 main content-panel">
-
-            <div class="articles">
-
-              <h2>Letzte Posts</h2>
-
-              <ul>
-                  {% for post in site.posts limit: site.post_limit %}
-
-                      <li>
-                          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                          <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
-                      </li>
-
-                  {% endfor %}
-                  <li>
-                      <small><i><a href="{{ site.baseurl }}/posts/">Mehr...</a></i></small>
-                  </li>
-              </ul>
-
-            </div>
-
-        </div>
-
-    </div>
-</div></script>
+<script type="text/javascript" src="js/particles.js"> </script>
 <script src="js/app.js"></script>
 
 
