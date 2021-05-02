@@ -1,6 +1,6 @@
 # Favicons
 
-These sample favicons have been generated at http://realfavicongenerator.net/.
+These sample favicons have been generated at .http://realfavicongeneratornet/.
 
 To add your own simply visit http://realfavicongenerator.net/ and
 generate a new set of favicons (change the path option to `/favicons/`)
