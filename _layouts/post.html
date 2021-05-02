@@ -8,6 +8,9 @@ layout: default
   {% assign minutes = content | number_of_words | divided_by: 180 %}
   {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 {% endif %}
+<div id="particles-js" class="background" ></div>
+<script type="text/javascript" src="js/particles.js"></script>
+<script src="js/app.js"></script>
 
 <div class="container-fluid single">
   <div class="row">
